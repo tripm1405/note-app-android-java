@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Note</string>
+
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="re_password_hint">Re-Password</string>
+    <string name="old_password_hint">Old Password</string>
+    <string name="new_password_hint">New Password</string>
+    <string name="re_new_password_hint">Re-New Password</string>
+    <string name="otp_hint">OTP</string>
+
+    <string name="first_notify_verify_email_notify">confirm the email in your mailbox before clicking VERIFY button</string>
+    <string name="exists_username">Username is exists!</string>
+    <string name="restart_please">Restart App, please!</string>
+    <string name="Sign_in_failed">Sign in failed!</string>
+    <string name="Sign_up_failed">Sign up failed!</string>
+    <string name="verify_failed">Verify failed!</string>
+    <string name="loading">Loading\.\.\.</string>
+
+    <string name="sign_in_button">SIGN IN</string>
+    <string name="sign_up_button">SIGN UP</string>
+    <string name="sign_out_button">SIGN OUT</string>
+    <string name="verify_button">VERIFY</string>
+    <string name="change_button">CHANGE</string>
+    <string name="password_change_button">CHANGE PASSWORD</string>
+    <string name="send_button">SEND</string>
+
+    <string name="username_require">Username is requirement!</string>
+    <string name="username_type_require">Username much be Email or Phone Number!</string>
+    <string name="password_require">Password is requirement!</string>
+    <string name="password_length_require">Password is requirement!</string>
+    <string name="new_password_require">New Password is requirement!</string>
+    <string name="new_password_length_require">New Password is requirement!</string>
+    <string name="re_password_match_require">Re-Password does not match Password!</string>
+    <string name="re_new_password_match_require">Re-NewPassword does not match Password!</string>
+    <string name="old_password_require">Old Password is requirement!</string>
+    <string name="old_password_incorrect">Old Password is incorrect!</string>
+
+    <string name="send_again_a">Send again</string>
+    <string name="skip_a">skip</string>
+    <string name="password_forgot_a">Forgot password</string>
+    <string name="sign_in_a">Sign in</string>
+    <string name="sign_up_a">Sign up</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchNote"
+        android:title="Search Note"
+        android:icon="@drawable/ic_search_24"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+
+    <item
+        android:id="@+id/addNote"
+        android:title="Add Note"
+        android:icon="@drawable/ic_add_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/profileItem"
+        android:title="Profile"
+        android:icon="@drawable/ic_account_circle_24"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/showDone"
+        android:title="Show Note"
+        app:actionLayout="@layout/activity_switch"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/deleteDoneItem"
+        android:title="Remove Done"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/deleteAllItem"
+        android:title="Remove All"
+        app:showAsAction="never"/>
+</menu>
